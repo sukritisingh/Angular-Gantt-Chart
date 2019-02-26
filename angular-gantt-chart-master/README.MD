@@ -109,6 +109,4 @@ export class AppComponent {
 
 
 
-## License
 
-MIT © [Ranjan Singh](mailto:kumarranjan.singh19@gmail.com)
