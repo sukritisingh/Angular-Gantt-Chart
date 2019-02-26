@@ -5,7 +5,6 @@ The component accepts input data from child component using input decorator of A
 
 Angular2
 =========
-The sources for this package are in (https://github.com/kumarranjansingh/angular-gantt-chart) repo. Please file issues and pull requests against this repo.
 ## Demo Output
   ![angular2-gantt-chart-dekstop](https://raw.githubusercontent.com/kumarranjansingh/angular-gantt-chart/master/assets/chartdekstop.PNG)
 ![angular2-gantt-chart-mobile](https://raw.githubusercontent.com/kumarranjansingh/angular-gantt-chart/master/assets/chartmobile.png)
